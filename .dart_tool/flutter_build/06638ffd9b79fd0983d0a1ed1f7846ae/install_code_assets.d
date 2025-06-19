@@ -1,0 +1,1 @@
+ /media/badjo/BE9011209010E0A7/Flutter_Projects/EraaSoft_127/bmi_calculator/.dart_tool/flutter_build/06638ffd9b79fd0983d0a1ed1f7846ae/native_assets.json: 
